@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS addon with updated Alfred for macOS Addon | OCR-support + screenshot-tools. Featuring OCR-support and screenshot-tools, it's the best choice for
 
 
 
